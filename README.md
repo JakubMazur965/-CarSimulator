@@ -1,2 +1,6 @@
-# -CarSimulator
-Simple Gui App which simulates car
+# CarSimulator
+
+## Table of contents
+* [General info](#general-info)
+* [Features](#features)
+* [Technologies](#technologies)
