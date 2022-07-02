@@ -13,7 +13,7 @@ CarSimulator is a simple GUI application, where we can move our car on the map. 
 
 <img src="./images/newModel.png" data-canonical-src="./images/newModel.png" width="430" height="250"/>
 
-- running
+- driving
 - posting to a destination on the map (MouseListener)
 - adding gas
 - gear changing
